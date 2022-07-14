@@ -11,3 +11,4 @@ Unfortunately, the Wi-Fi module led to a shallow proof of concept due to trackin
 The standard procedure for Internet of Pets of setting up the connection from Sigfox to Azure was creating a specified domain account for this startup and accessing four different resources to then have the data be visualized via the premium dashboard. Firstly, they had to connect, monitor, and configure the IoT device through the Azure IoT Hub which manages billions of IoT devices.
 Secondly, as soon as they connected and captured the data it would run through Azure Stream Analytics to run real-time analytics on their data.
 Thirdly, the data was collected and stored in the Microsoft Azure SQL Database. Finally, the coordinates were shown via the dashboard from Power BI.
+![image](https://user-images.githubusercontent.com/48565455/179025365-e239fded-8786-4c70-9e31-05c4c0a228cc.png)
