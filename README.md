@@ -1,6 +1,6 @@
 # Introduction
 
-![image](https://user-images.githubusercontent.com/48565455/179182349-272654b4-853c-4665-bf6f-5eed51fff8aa.png)
+![image](https://user-images.githubusercontent.com/48565455/179184357-ba784f1b-9d97-44d3-a038-2ed4c0fcc63f.png)
 
 The purpose of this project was to create a business use case for an Internet of Things (IoT) device. 
 Internet of Pets introduced an adjustable pet-friendly collar that is lightweight and recognizable to the eye. 
